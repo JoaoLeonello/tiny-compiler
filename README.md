@@ -1,4 +1,4 @@
-# mini-c-compiler
+# tiny-compiler
 
 Compilador para MiniC, uma linguagem pequena com sintaxe de C. O compilador é escrito em C++17, gera assembly x86-64 (sintaxe AT&T, System V ABI) e usa um runtime em C para entrada e saída. O `cc` do sistema monta e linka o executável final.
 
